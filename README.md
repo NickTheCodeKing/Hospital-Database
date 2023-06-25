@@ -7,7 +7,7 @@ Description:
 - I built the database in "Phases" as instructed by the professor.
 - I did the following in order to build the database: created the E-R Model, wrote Java code to help with automation, constructed the schema, built the tables, filling the tables with data, and working with SQL queries to get the desired data
 - This project was done in SQLDeveloper and "my" database was hosted using Oracle through the University of New Orleans.
-- I completed 7 Phases of the project.
+- I completed 6 Phases of the project.
 
 Feel free to check out the ER Diagram, my Java code, or any of the SQL code.
 
