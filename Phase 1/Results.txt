@@ -1,0 +1,8 @@
+String,String,String
+String,String,String
+String,String,Number
+String,String,Number
+String,String,Number
+String,String,Number
+Number,Number,String
+Number,Number,String

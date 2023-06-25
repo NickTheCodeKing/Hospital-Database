@@ -1,0 +1,7 @@
+I ran the scripts in this order:
+
+physician.sql
+nurse.sql
+patient.sql
+bed.sql
+timecard.sql
