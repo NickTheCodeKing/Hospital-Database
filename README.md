@@ -11,4 +11,4 @@ Description:
 
 Feel free to check out the ER Diagram, my Java code, or any of the SQL code.
 
-**Disclaimer: The database server is not open to the public (and my specific database me be deleted at this point), but I believe the diagram, SQL code, and Java code shows my understanding of Relational Databases**
+**Disclaimer: The database server is not open to the public (and my specific database may be deleted at this point), but I believe the diagram, SQL code, and Java code shows my understanding of Relational Databases**
